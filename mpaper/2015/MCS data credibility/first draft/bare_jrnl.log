@@ -1,0 +1,267 @@
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (MiKTeX 2.9) (preloaded format=xelatex 2015.10.8)  9 OCT 2015 11:23
+entering extended mode
+**bare_jrnl.tex
+("F:\¸öÈËÎÄµµ\2015\MCS data credibility\²Ý¸å\bare_jrnl.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for loaded.
+("F:\¸öÈËÎÄµµ\2015\MCS data credibility\²Ý¸å\IEEEtran.cls"
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 458.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box27
+) (C:\CTEX\MiKTeX\tex\latex\diagbox\diagbox.sty
+Package: diagbox 2011/11/23 v2.0 Making table heads with diagonal lines
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\CTEX\MiKTeX\tex\latex\pict2e\pict2e.sty
+Package: pict2e 2009/08/05 v0.2x Improved picture commands (HjG,RN,JT)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\pict2e.cfg
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: dvips.def on input line 101.
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+Package pict2e Info: Driver file for pict2e: p2e-dvips.def on input line 103.
+
+(C:\CTEX\MiKTeX\tex\latex\pict2e\p2e-dvips.def
+File: p2e-dvips.def 2009/08/05 v0.1s Driver-dependant file (RN,HjG,JT)
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks16
+\@arclen=\dimen125
+\@arcrad=\dimen126
+\@tempdimd=\dimen127
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\CTEX\MiKTeX\tex\latex\fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count95
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count96
+\FP@xia=\count97
+\FP@xib=\count98
+\FP@xfa=\count99
+\FP@xfb=\count100
+\FP@rega=\count101
+\FP@regb=\count102
+\FP@regs=\count103
+\FP@times=\count104
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count105
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\CTEX\MiKTeX\tex\latex\fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box28
+\diagbox@boxb=\box29
+\diagbox@boxm=\box30
+\diagbox@wd=\dimen128
+\diagbox@ht=\dimen129
+\diagbox@sepl=\dimen130
+\diagbox@sepr=\dimen131
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen132
+\Gin@req@width=\dimen133
+)
+("F:\¸öÈËÎÄµµ\2015\MCS data credibility\²Ý¸å\bare_jrnl.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+
+-- Lines per column: 58 (exact).
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 595.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 595.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 603.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 603.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+
+]
+File: framework.eps Graphic file (type eps)
+ <framework.eps>
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 634--634
+ [][] 
+ []
+
+("F:\¸öÈËÎÄµµ\2015\MCS data credibility\²Ý¸å\bare_jrnl.bbl")
+[2
+
+] ("F:\¸öÈËÎÄµµ\2015\MCS data credibility\²Ý¸å\bare_jrnl.aux") ) 
+Here is how much of TeX's memory you used:
+ 2252 strings out of 430486
+ 31878 string characters out of 3191694
+ 109960 words of memory out of 3000000
+ 5379 multiletter control sequences out of 15000+200000
+ 29370 words of font info for 65 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 32i,15n,19p,1035b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on bare_jrnl.pdf (2 pages).
